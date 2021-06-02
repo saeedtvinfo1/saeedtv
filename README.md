@@ -1,3 +1,3 @@
 # saeedtv
 Iptv1
-https://cdn2.jazztv.pk/jazzauth/SaudiQuran-142/playlist.m3u8
+https://cdn2.jazztv.pk;8087/jazzauth/SaudiQuran-142/playlist.m3u8
